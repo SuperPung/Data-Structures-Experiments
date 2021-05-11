@@ -14,3 +14,6 @@
 12. [Data Structures Experiment #12](https://blog.superpung.xyz/Data-Structures-Experiment-12/)
 13. [Data Structures Experiment #13](https://blog.superpung.xyz/Data-Structures-Experiment-13/)
 14. [Data Structures Experiment #14](https://blog.superpung.xyz/Data-Structures-Experiment-14/)
+15. [Data Structures Experiment #15](https://blog.superpung.xyz/Data-Structures-Experiment-15/)
+16. [Data Structures Experiment #16](https://blog.superpung.xyz/Data-Structures-Experiment-16/)
+17. [Data Structures Experiment #17](https://blog.superpung.xyz/Data-Structures-Experiment-17/)
